@@ -1,6 +1,4 @@
 # Readme
-### 1. Create env for python
-#### virtualenv datalinenv -> cd datalinev/Script -> activate
+### 1. Installing package
+#### pip install -r requirements.txt
 
-### 2. Installing package
-#### install flask, pyarango
